@@ -46,7 +46,7 @@ Previous Meetup Information
         
 - Our 1st meetup was on 8th June, 2019:
     1.  Introduction by [Jyoti Raval](https://twitter.com/JenyRaval) and
-        [Nirav Patel](https://twitter.com/niravvhackky)
+        [Nirav Patel](https://twitter.com/nirav4peace)
         ([Slides](/meetups/2019/June/1._OWASP_Pune_First_Meetup.pdf))
     2.  Application Security in Current Era by Ajit Dhumale
         ([Slides](/meetups/2019/June/Application_Security_in_Current_Era_-_Ajit_Dhumale.pdf))
